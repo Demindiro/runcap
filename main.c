@@ -22,7 +22,6 @@
 #include <string.h>
 #include <unistd.h>
 #include <pwd.h>
-#include <linux/securebits.h>
 #include <linux/capability.h>
 #include <sys/capability.h>
 
